@@ -1,0 +1,144 @@
+05/01/2021
+---------------
+10:30
+Python basics:
+Numbers,control statements,sequences,dictionaries,functions,modules,files,errors&exceptions,classes&objects...
+6:30
+-------------------
+06/01/2021
+-------------------
+10:30
+django:
+basics,MVT pattern,Creating and run django project
+6:30
+------------------
+07/01/2021
+------------------
+10:30
+cs50 edx:
+week0:
+binary,ascii,unicode,rgb,algorithms,scracth,variables,conditions...
+6:30
+------------------
+08/01/2021
+------------------
+10:30
+week1:
+c-language,compiling,functions,help50,style50,check50,types,format codes,integeroverflow,conditions
+6:30
+------------------
+09/01/2021
+------------------
+10:30
+week1:
+c-language,boolean expressions,loops,get_positive_int,floating-point imprecision,interger overflow...
+week2:
+Arrays:
+clang,compiling,debugging,memory,scores,arays,strings,arrays of strings...
+6:30
+------------------
+10/01/2021
+------------------
+10:30
+week3:
+Algorithms:
+searching,runnigtimes,linear search,binary search,numbers,names
+Sorting methods:
+selection sort,bubble sort,merge sort...
+
+6:30
+------------------
+
+
+
+11/01/2021
+-----------------------
+10:30
+
+week4:
+Memory:
+Hexa decimal,Rgb,Memory,Adress,Pointers,Strings,Compare.c,Copy.c,
+
+6:30
+----------------------------
+
+
+
+
+
+12/01/2021
+-----------------------
+10:30
+
+week5:
+Data Stuctures:
+Pointers,Linked lists,Trees,Binary search trees,Hash Tables,Hash functions,Tries,Abstract data type,Queues,Stacks,Dictionaries.............
+And some tasks in hacker rank......
+
+6:30
+----------------------------
+
+
+
+
+Hello Sir, Good Evening
+Today's Task,
+Week6 of cs50 edx about python
+13/01/2021
+-----------------------
+10:30
+
+-week6:
+-Python:
+-hello.py,variables,F-String,conditions,loops,types,CS50 library,blur.py,dictionary.py,range,input,addition.py,division.py,conditions.py,agree.py,positive.py,intege overflow,CSV files,QR Codes,speech recognition....................
+-And
+-Some of Hacker rank Tasks on Python..................
+
+6:30
+----------------------------
+from,
+Praveen...
+
+
+
+
+
+Hello Sir, Good Evening
+Today's Task,
+Week6 of cs50 edx about python
+13/01/2021
+-----------------------
+10:30
+
+-week6:
+-Python:
+-hello.py,variables,F-String,conditions,loops,types,CS50 library,blur.py,dictionary.py,range,input,addition.py,division.py,conditions.py,agree.py,positive.py,intege overflow,CSV files,QR Codes,speech recognition....................
+-And
+-Some of Hacker rank Tasks on Python..................
+
+6:30
+----------------------------
+from,
+Praveen...
+
+
+
+
+Hello Sir,Good Evening
+Today i had done below tasks
+
+10:30
+
+-Week7:
+-SQL:
+Data,spreadsheets,flat file databases,csv files,favourites.py,datacleaning,orted,lambdafunctions,relational databases,sqlite,sql,crud,select,distinct,like,oderby,groupby,insert,update,delete,relationaldata,datatypes,constraints,primarykey,foreign key,cs50library,many-many-relationships,imdb,indexes,joins,sql-injection,raceconditions
+And
+-Week8:
+-HTML,CSS,JAVA SCRIPT:
+Internet,routers,protocols,tcp/ip,ip addresses,dns,tcp,web server demo,HTTP,HTTPS,domain names,status codes,developer tools,curl,url parameters,HTML,http-server,paragraphs.html,headings.html,lists.html,table.html,image.html,link.html,search.html,CSS,selectors,classes,ids,JAVASCRIPT,document.queryselector,add eventlistener,anonymous functions,background.html,inspect,size.html,blink.html,autocomplete.html.........................................
+
+6:30:
+
+
+Thanks&Regards:
+Praveen
